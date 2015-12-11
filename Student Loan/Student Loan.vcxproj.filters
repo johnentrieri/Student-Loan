@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Student Loan Calculator\Project1\ezDate.cpp">
+    <ClCompile Include="ezDate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Student Loan Calculator\Project1\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Student Loan Calculator\Project1\ezDate.h">
+    <ClInclude Include="ezDate.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

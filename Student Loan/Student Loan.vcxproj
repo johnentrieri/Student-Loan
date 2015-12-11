@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Student Loan Calculator\Project1\ezDate.cpp" />
-    <ClCompile Include="..\..\Student Loan Calculator\Project1\main.cpp" />
+    <ClCompile Include="ezDate.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Student Loan Calculator\Project1\ezDate.h" />
+    <ClInclude Include="ezDate.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6FA991AC-07FE-4395-B8A8-E6C938159576}</ProjectGuid>
